@@ -1,0 +1,20 @@
+
+
+#main-header {
+    background-color:#607274;
+    color: #FAEED1;
+    text-align: center;
+
+    font-weight: 200;
+}
+
+.sub-header {
+    background-color:#607274;
+    color: #FAEED1;
+    font-weight: 100;
+}
+
+#main-page-button {
+    background-color: darkgray;
+    color: white;
+}
