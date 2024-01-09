@@ -1,15 +1,25 @@
+body {
+    background: #F4EEFF;
+    font-family:'Courier New', Courier, monospace;
+}
 
+.card {
+    width: 500px;
+    background: #AAC4FF;
+    margin: 48px auto;
+    padding-bottom: 8px;
+    border: 2px solid #495159; 
+}
 
-#main-header {
-    background-color:#607274;
-    color: #FAEED1;
+.title {
+    background: #B1B2FF;
+    border: 2px solid #495159; 
+    margin-top: 0px;
+    padding: 8px;
     text-align: center;
-
-    font-weight: 200;
+    color: #EEF1FF;
 }
 
 .recipe-list {
-    background-color:#B2A59B;
-    color: black;
-    font-size: 20px;
+    font-size: 18px;
 }

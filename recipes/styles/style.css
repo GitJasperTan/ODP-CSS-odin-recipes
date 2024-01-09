@@ -1,0 +1,46 @@
+body {
+    background: #F4EEFF;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.card {
+    width: 1000px;
+    background: #AAC4FF;
+    margin: 48px auto;
+    padding-bottom: 16px;
+    border: 2px solid #495159; 
+    font-size: 20px;
+}
+
+.section-content {
+    background: #B1B2FF;
+    color: #EEF1FF;
+    border: 2px solid #495159;
+    padding: 4px 8px;
+}
+
+.content {
+    margin: 16px;
+}
+
+.title {
+    background: #B1B2FF;
+    border: 2px solid #495159; 
+    margin-top: 0px;
+    padding: 8px;
+    text-align: center;
+    color: #EEF1FF;
+}
+
+.food-image {
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #495159; 
+}
+
+.main-page-button {
+    display: block;
+    width: 150px;
+    height: 45px;
+    margin: 0 auto;
+}
